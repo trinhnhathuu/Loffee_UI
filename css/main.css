@@ -166,7 +166,7 @@
 
     font-size: 1rem;
     margin: auto;
-    
+     width: 100%;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -180,6 +180,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+     width: 100%;
     
 }
 .email{
