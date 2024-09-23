@@ -1,0 +1,10 @@
+
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.peanut_app",
+    "sha256_cert_fingerprints":
+    ["3E:A7:3F:82:31:5D:29:E6:46:69:08:1E:99:32:C7:9B:6C:07:6D:B7:A7:F1:F1:24:D6:83:8B:D4:28:92:BD:30"]
+  }
+}]
